@@ -1,5 +1,12 @@
-body {
-  width: 100%;
+
+html {
   height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background : radial-gradient(rgb(68, 66, 66),white);
 }
